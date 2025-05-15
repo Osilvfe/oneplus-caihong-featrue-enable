@@ -4,8 +4,8 @@
 #MNT="/" #从根目录挂载（默认从/mnt/vendor/挂载）
 # 这将使你的脚本更加兼容，即使Magisk在未来改变了它的挂载点
 MODDIR=${0%/*}
-mount --bind $MODDIR/my_bigball/etc/permissions/oplus.feature.control_cn_gms.xml /my_bigball/etc/permissions/oplus.feature.control_cn_gms.xml
-mount --bind $MODDIR/my_bigball/etc/permissions/oplus_google_cn_gms_features.xml /my_bigball/etc/permissions/oplus_google_cn_gms_features.xml
+mount --bind $MODDIR/my_product/etc/permissions/oplus.feature.control_cn_gms.xml /my_product/etc/permissions/oplus.feature.control_cn_gms.xml
+mount --bind $MODDIR/my_product/etc/permissions/oplus_google_cn_gms_features.xml /my_product/etc/permissions/oplus_google_cn_gms_features.xml
 mount --bind $MODDIR/my_product/etc/extension/ /my_product/etc/extension/
 mount --bind $MODDIR/my_product/etc/permissions/ /my_product/etc/permissions/
 mount --bind $MODDIR/my_product/etc/refresh_rate_config.xml /my_product/etc/refresh_rate_config.xml
