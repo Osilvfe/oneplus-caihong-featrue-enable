@@ -45,6 +45,17 @@
 	<oplus-feature name="oplus.software.compat.land_game_mode"/>
 
 	<!-- 以下是后添加的 -->
-	<oplus-feature name="oplus.software.display.reduce_white_point"/>	<!--降低白点值(官方极暗)-->
+	<!--降低白点值(官方极暗)-->
+	<oplus-feature name="oplus.software.display.reduce_white_point"/>	
+	<!-- 侧边栏视频助手 -->
+	<oplus-feature name="oplus.software.smart_sidebar_video_assistant"/>
+	<!-- 视频音量增强 -->
+	<oplus-feature name="oplus.video.audio.volume.enhancement" />
+	<!-- 屏幕最小亮度拓展 -->
+	<oplus-feature name="oplus.software.display.lux_small_debounce_expand_support"/>
+	<!-- 游戏助手ifs画面 -->
+	<oplus-feature name="oplus.software.display.game.ifs_enable"/>
+	<!-- 护眼提醒 -->
+	<oplus-feature name="oplus.software.display.ai_eyeprotect_v1_support"/> 
 </oplus-config>
 <!-- Timestamp 2024-11-12T18:26:33 #05da695f-a868-4f04-bfe8-7c1355758b27 -->
