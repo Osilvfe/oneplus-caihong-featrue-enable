@@ -13,6 +13,8 @@
 	<app_feature name="com.android.launcher.TASKBAR_ENABLE"/>
 	<app_feature name="com.oplus.ipemanager.support_devices" args="String:OPPO Pencil 2"/>
 	<app_feature name="oplus.ptc.nfc.settings"/>
+	<app_feature name="com.android.launcher.DEVICE_LEVEL_HIGH"/>
+	<app_feature name="com.oplus.mediaturbo.tencent_meeting" args="boolean:true"/>
 	<!-- 后添加的 -->
 	<!-- 点击唤醒屏幕 1501无 -->
 	<app_feature name="oplus.aod.wakebyclick.support" args="boolean:true"/> 
@@ -20,7 +22,7 @@
 	<app_feature name="com.oplus.mediaturbo.game_live" args="boolean:true"/> 
 	<!-- 实况照片支持设置锁屏图片 -->
 	<app_feature name="com.oplus.wallpapers.livephoto_wallpaper" args="boolean:true"/> 
-	<app_feature name="com.android.launcher.DEVICE_LEVEL_HIGH"/>
-	<app_feature name="com.oplus.mediaturbo.tencent_meeting" args="boolean:true"/>
+
+	
 </extend_features>
 <!-- Timestamp 2025-04-03T14:53:27 #651672 -->
