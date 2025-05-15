@@ -8,7 +8,7 @@
             <application name="com.google.android.youtube">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -16,7 +16,7 @@
             <application name="com.tencent.qqlive">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -24,7 +24,7 @@
             <application name="com.qiyi.video">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -32,7 +32,7 @@
             <application name="com.heytap.yoli">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -40,7 +40,7 @@
             <application name="com.youku.phone">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -48,7 +48,7 @@
             <application name="com.hunantv.imgo.activity">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -56,7 +56,7 @@
             <application name="tv.danmaku.bili">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -64,7 +64,7 @@
             <application name="tv.danmaku.bilibilihd">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -72,7 +72,7 @@
             <application name="com.tencent.tvoem">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -80,7 +80,7 @@
             <application name="com.qiyi.video.pad">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -88,7 +88,7 @@
             <application name="com.sohu.sohuvideo">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -96,7 +96,7 @@
             <application name="com.tudou.android">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -104,7 +104,7 @@
             <application name="com.ss.android.article.video">
                 <scene type="Application">
                     <action>
-                        <minFPS>144</minFPS>
+                        <minFPS>120</minFPS>
                         <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -112,7 +112,7 @@
             <application name="com.oneplus.gallery">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
@@ -120,10 +120,16 @@
             <application name="com.coloros.gallery3d">
                 <scene type="Application">
                     <action>
-                       <minFPS>144</minFPS>
+                       <minFPS>120</minFPS>
                        <maxFPS>144</maxFPS>
                     </action>
                 </scene>
+            </application>
+        </feature>
+
+        <feature name="PadFloorFps" enable="1">
+            <application name="com.ss.android.ugc.aweme">
+                <scene type="Application"></scene>
             </application>
         </feature>
 
@@ -144,7 +150,21 @@
                     </action>
                 </scene>
             </application>
+            <application name="tv.danmaku.bilibilihd">
+                <scene type="FuzzyLayer">
+                    <layer>VideoDetailsActivity</layer>
+                    <action>
+                        <mode>SurfaceView</mode>
+                    </action>
+                </scene>
+            </application>
             <application name="tv.danmaku.bili">
+                <scene type="FuzzyLayer">
+                    <layer>nitedBizDetailsActivity</layer>
+                    <action>
+                        <mode>SurfaceView</mode>
+                    </action>
+                </scene>
                 <scene type="FuzzyLayer">
                     <layer>VideoDetailsActivity</layer>
                     <action>
@@ -1415,6 +1435,78 @@
                 </scene>
             </application>
             <application name="com.netease.l22.nearme.gamecenter">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.netease.sky.nearme.gamecenter">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.tencent.tmgp.cf">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.netease.yhtj.nearme.gamecenter">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.tencent.lolm">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.netease.nshm.nearme.gamecenter">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.netease.dfjs.aligames">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.netease.dwrg.nearme.gamecenter">
+                <scene type="Application">
+                    <action>
+                        <mode>CABC</mode>
+                        <cabc_enter>3</cabc_enter>
+                        <cabc_exit>1</cabc_exit>
+                    </action>
+                </scene>
+            </application>
+            <application name="com.tencent.KiHan">
                 <scene type="Application">
                     <action>
                         <mode>CABC</mode>

@@ -5,4 +5,6 @@
     <app_feature name="com.oplus.soundrecorder.no_display_record" />
     <app_feature name="com.android.incallui.video_call_hold" />
     <app_feature name="com.android.server.telecom.intercept_emergency_call_when_oos" />
+    <app_feature name="com.oplus.aicall.call_translate"/>
+    <app_feature name="com.android.incallui.not_support_record" />
 </extend_features>

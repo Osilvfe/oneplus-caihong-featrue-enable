@@ -48,7 +48,7 @@
 		<StringList name="region" args="name=OM"/>
 		<StringList name="region" args="name=AE"/>
 
-        <!-- 中东非：肯尼亚(KE)、尼日利亚(NG)、 伊拉克(IQ)、也门、巴勒斯坦(PS)、阿富汗、黎巴嫩(LB)、叙利亚、约旦(JO)、
+        <!-- 中东非：肯尼亚(KE)、尼日利亚(NG)、 伊拉克(IQ)、也门(YE)、巴勒斯坦(PS)、阿富汗(AF)、黎巴嫩(LB)、叙利亚(SY)、约旦(JO)、
 		以色列(IL)、阿尔及利亚(DZ)、摩洛哥(MA)、突尼斯(TN)、南非(ZA)、哈萨克斯坦(KZ)、乌兹别克斯坦(UZ)、乌克兰(UA)、白俄罗斯(BY) 、加纳(GH)-->
 		<StringList name="region" args="name=KE"/>
 		<StringList name="region" args="name=NG"/>
@@ -66,6 +66,9 @@
 		<StringList name="region" args="name=UA"/>
 		<StringList name="region" args="name=BY"/>
         <StringList name="region" args="name=GH"/>
+        <StringList name="region" args="name=AF"/>
+        <StringList name="region" args="name=YE"/>
+        <StringList name="region" args="name=SY"/>
 
         <!-- 埃及(EG) -->
 		<StringList name="region" args="name=EG"/>
@@ -109,6 +112,7 @@
 		<StringList name="region" args="name=NO"/>
 
         <!-- 冰岛 -->
+        <StringList name="region" args="name=IS"/>
 
         <!-- 卢森堡(LU) -->
 		<StringList name="region" args="name=LU"/>
@@ -153,6 +157,9 @@
 
         <!-- 马其顿 -->
 
+        <!-- 北马其顿(MK) -->
+		<StringList name="region" args="name=MK"/>
+
         <!-- 黑山(ME) -->
 		<StringList name="region" args="name=ME"/>
 
@@ -167,6 +174,12 @@
 
         <!-- 保加利亚(BG) -->
         <StringList name="region" args="name=BG"/>
+
+        <!-- 拉脱维亚(LV) -->
+        <StringList name="region" args="name=LV"/>
+
+        <!-- 立陶宛(LT) -->
+        <StringList name="region" args="name=LT"/>
     <!-- 地理大区：欧洲 end -->
 
     <!-- 地理大区：拉美 start -->
@@ -236,5 +249,68 @@
 
         <!-- 美国 -->
 		<StringList name="region" args="name=US"/>
+
+        <!-- 阿塞拜疆(AZ) -->
+        <StringList name="region" args="name=AZ"/>
+
+        <!-- 格鲁吉亚(GE) -->
+        <StringList name="region" args="name=GE"/>
+
+        <!-- 亚美尼亚(AM) -->
+        <StringList name="region" args="name=AM"/>
+
+        <!-- 乌干达(UG) -->
+        <StringList name="region" args="name=UG"/>
+
+        <!-- 中国(CN) -->
+        <StringList name="region" args="name=CN"/>
+
+        <!-- 塞浦路斯(CY) -->
+        <StringList name="region" args="name=CY"/>
+
+        <!-- 爱沙尼亚(EE) -->
+        <StringList name="region" args="name=EE"/>
+
+        <!-- 斯洛文尼亚(SI) -->
+        <StringList name="region" args="name=SI"/>
+
+        <!-- 利比亚(LY) -->
+        <StringList name="region" args="name=LY"/>
+
+        <!-- 坦桑尼亚(TZ) -->
+        <StringList name="region" args="name=TZ"/>
+
+        <!-- 埃塞俄比亚(ET) -->
+        <StringList name="region" args="name=ET"/>
+
+        <!-- 赞比亚(ZM) -->
+        <StringList name="region" args="name=ZM"/>
+
+        <!-- 蒙古(MN) -->
+        <StringList name="region" args="name=MN"/>
+
+        <!-- 塔吉克斯坦(TJ) -->
+        <StringList name="region" args="name=TJ"/>
+
+        <!-- 土库曼斯坦(TM) -->
+        <StringList name="region" args="name=TM"/>
+
+        <!-- 吉尔吉斯斯坦(KG) -->
+        <StringList name="region" args="name=KG"/>
+
+        <!-- 科索沃(KV) -->
+        <StringList name="region" args="name=KV"/>
+
+        <!-- 马里(ML) -->
+        <StringList name="region" args="name=ML"/>
+
+        <!-- 塞内加尔(SN) -->
+        <StringList name="region" args="name=SN"/>
+
+        <!-- 阿尔及利亚(DZ) -->
+        <StringList name="region" args="name=DZ"/>
+
+        <!-- 伊拉克(IQ) -->
+        <StringList name="region" args="name=IQ"/>
 	</app_feature>
 </extend_features>

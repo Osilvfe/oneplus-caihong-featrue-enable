@@ -23,4 +23,6 @@
     <oplus-feature name="oplus.software.wlan.gtx_controller" />
 <!-- LiuZixuan@CONNECTIVITY.WIFI.CONNECT.SAP.5470030, 2023/07/24, Add for SAP 5G160M feature -->
     <oplus-feature name="oplus.software.wlan.5g_160M_softap" />
+<!-- Xumengyuna@CONNECTIVITY.WIFI.BASE.P2P.8132000, 2025/03/04, Add for D2D mode -->
+    <oplus-feature name="oplus.software.wlan.p2p.d2d_mode" />
 </oplus-config>

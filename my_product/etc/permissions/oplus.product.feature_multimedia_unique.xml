@@ -45,4 +45,6 @@
     <oplus-feature name="oplus.software.multi_app.volume.adjust.support"/>
     <!-- WangBo@MULTIMEDIA.AUDIOSERVER.BASE, 2024/05/17, Add for voice assistant independent volume -->
     <oplus-feature name="oplus.software.audio.assistant_volume_support"/>
+    <!-- yaoqinwei@MULTIMEDIA.AUDIOSERVER.FRAMEWORK, 2025/02/28, Add for Oplus Music Source Separation. -->
+    <oplus-feature name="oplus.software.audio.mss_music_only" />
 </oplus-config>

@@ -1,5 +1,5 @@
 {
-    "version": 2024102301,
+    "version": 2025020801,
     "feature": {
         "colorx": {
           "coolex_white_list": [
@@ -76,6 +76,20 @@
             ],
             "rus_file": {
                 "sys_coolex_gamedata_yuanshen_dapr": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_yuanshen_vrs": [
+                    "com.miHoYo.Yuanshen",
+                    "com.miHoYo.GenshinImpact",
+                    "com.miHoYo.ys.bilibili",
+                    "com.miHoYo.ys.mi",
+                    "com.miHoYo.yuanshencb"
+                ],
+                "sys_coolex_gamedata_yuanshen_memc": [
                     "com.miHoYo.Yuanshen",
                     "com.miHoYo.GenshinImpact",
                     "com.miHoYo.ys.bilibili",

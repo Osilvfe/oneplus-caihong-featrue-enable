@@ -5,4 +5,5 @@
     <app_feature name="com.oplus.soundrecorder.no_display_record"/>
     <app_feature name="com.android.incallui.play_busy_tone" />
     <app_feature name="com.android.server.telecom.play_busy_tone" />
+    <app_feature name="com.android.incallui.not_support_record" />
 </extend_features>

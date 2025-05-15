@@ -10,15 +10,23 @@
                 },
                 {
                     "pkg": "com.miHoYo.GenshinImpact",
-                    "extreme": 1484
+                    "extreme": 1188,
+					"extreme_60": 1484
                 },
                 {
                     "pkg": "com.miHoYo.ys.bilibili",
-                    "extreme": 1484
+                    "extreme": 1188,
+					"extreme_60": 1484
+                },
+				 {
+                    "pkg": "com.miHoYo.yuanshencb",
+                    "extreme": 1188,
+					"extreme_60": 1484
                 },
                 {
                     "pkg": "com.miHoYo.ys.mi",
-                    "extreme": 1484
+                   "extreme": 1188,
+					"extreme_60": 1484
                 }
             ],
 			"coolex_white_list": [
@@ -628,6 +636,1550 @@
 					}
 				},
 				"com.miHoYo.Yuanshen": {
+					"frameSr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							},
+							"47": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						}
+					},
+					"frameEr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							},
+							"49": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						}
+					},
+					"frameFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"46": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"49": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					},
+					"imageFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					}
+				},
+				"com.miHoYo.GenshinImpact": {
+					"frameSr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							},
+							"47": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						}
+					},
+					"frameEr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							},
+							"49": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						}
+					},
+					"frameFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"46": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"49": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					},
+					"imageFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					}
+				},
+				"com.miHoYo.ys.bilibili": {
+					"frameSr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							},
+							"47": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						}
+					},
+					"frameEr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							},
+							"49": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						}
+					},
+					"frameFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"46": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"49": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					},
+					"imageFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					}
+				},
+				"com.miHoYo.yuanshencb": {
+					"frameSr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							},
+							"47": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "SR"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "SR"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "SR"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "SR"
+								}
+							}
+						}
+					},
+					"frameEr": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							},
+							"49": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"fi": 9,
+									"sr": "EXTREME_30"
+								},
+								"45": {
+									"fi": 7,
+									"sr": "EXTREME_30"
+								},
+								"30": {
+									"fi": 6,
+									"sr": "EXTREME_30"
+								},
+								"24": {
+									"fi": 0,
+									"sr": "EXTREME_30"
+								}
+							}
+						}
+					},
+					"frameFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"46": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							},
+							"49": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 9,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 7,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 6,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "OFF",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					},
+					"imageFirst": {
+						"balance_low": {
+							"48": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"high": {
+							"51": {
+								"60": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						},
+						"xMode": {
+							"51": {
+								"60": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"45": {
+									"frameInsert": 6,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"30": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								},
+								"24": {
+									"frameInsert": 0,
+									"superResolution": "EXTREME_X_60",
+									"edr": "OFF",
+									"gpu": "KEEP"
+								}
+							}
+						}
+					}
+				},
+				"com.miHoYo.ys.mi": {
 					"frameSr": {
 						"balance_low": {
 							"48": {

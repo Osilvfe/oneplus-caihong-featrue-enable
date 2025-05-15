@@ -12,8 +12,6 @@
     <oplus-feature name="oplus.software.display.colorful_mode_support" />
     <!--software roundcorner feature -->
     <oplus-feature name="oplus.software.display.screen_select" />
-    <!-- sceen fingerprint feature -->
-    <oplus-feature name="oplus.software.fingeprint_optical_enabled"/>
     <!-- Add for Eyeprotect -->
     <oplus-feature name="oplus.software.display.smart_color_temperature_rhythm_health_support" />
     <!-- Add for display calbrication 100APL   -->

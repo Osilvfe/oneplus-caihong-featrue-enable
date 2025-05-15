@@ -40,4 +40,7 @@
 
     <!-- wanchang, 2023/10/14, Add for keep alive autotest -->
     <oplus-feature name="oplus.software.perceptible_app_keep_alive" />
+
+    <!-- gaolihu@ANDROID.PMS, 2024/9/23,  add for check 24h enter deep_sleep open -->
+    <oplus-feature name="oplus.software.check_24hour_enter_deep_sleep" />
 </oplus-config>

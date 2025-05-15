@@ -8,4 +8,5 @@
     <app_feature name="com.android.phone.show_lte_replace_4g" />
     <app_feature name="com.android.mms.sms_input_mode" />
     <app_feature name="com.android.phone.show_cf_toast" />
+    <app_feature name="com.android.incallui.not_support_record" />
 </extend_features>
