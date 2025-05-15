@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extend_features>
+	<app_feature name="com.android.launcher.REGION_NAME" args="String:CN"/>
+	<app_feature name="com.android.launcher.CN_VERSION"/>
+	<app_feature name="com.android.systemui.smartlock_enable"/>
+	<app_feature name="com.android.systemui.puk_code_show"/>
+	<app_feature name="com.android.systemui.nav_back"/>
+	<app_feature name="com.android.systemui.aod_not_exp_theme"/>
+	<app_feature name="com.android.systemui.red_pocket" args="boolean:true"/>
+	<app_feature name="com.android.systemui.after_sale_notice" args="boolean:true"/>
+	<app_feature name="com.android.systemui.usb_service_for_cta" args="boolean:false"/>
+	<app_feature name="com.android.systemui.kgd_ql_wechat_pay"/>
+	<app_feature name="com.android.systemui.support_passpoint"/>
+	<app_feature name="com.android.systemui.cn_signal_ui" args="boolean:true"/>
+	<app_feature name="com.android.systemui.show_private_permission_icon"/>
+	<app_feature name="com.android.systemui.google_assistant_supported" args="boolean:false"/>
+	<app_feature name="com.android.systemui.alipay_payment_supported" args="boolean:true"/>
+	<app_feature name="com.android.systemui.alipay_scan_supported" args="boolean:true"/>
+	<app_feature name="com.android.systemui.wechatpay_payment_supported" args="boolean:true"/>
+	<app_feature name="com.android.systemui.envelop_supported" args="boolean:true"/>
+	<app_feature name="com.android.systemui.calendar_cn" args="boolean:true"/>
+	<app_feature name="com.android.systemui.nav_bar_searchable_in_setting" args="boolean:false"/>
+	<app_feature name="com.android.systemui.gesture_exclusion_white_list_cn" args="boolean:true"/>
+	<app_feature name="com.android.systemui.nav_bar_more_enabled" args="boolean:false"/>
+	<app_feature name="com.android.systemui.nav_bar_hide_state_show" args="boolean:false"/>
+	<app_feature name="com.android.systemui.nav_bar_gesture_guide_view_exp_version" args="boolean:false"/>
+	<app_feature name="com.android.systemui.nav_bar_white_list_exp" args="boolean:false"/>
+	<app_feature name="com.android.systemui.forbid_sos_button"/>
+	<app_feature name="com.android.systemui.go_to_after_service_in_cn" args="boolean:true"/>
+	<app_feature name="com.android.systemui.small_reply_enabled" args="boolean:true"/>
+	<app_feature name="com.android.systemui.display_cnsv_logo" args="boolean:true"/>
+	<app_feature name="com.android.systemui.wifi_only_hide_disconnected_wifi_icon"/>
+	<app_feature name="com.android.systemui.disable_gms_core_dnd_interception" args="boolean:true"/>
+	<app_feature name="com.android.systemui.support_black_screen" args="boolean:false"/>
+	<app_feature name="com.android.systemui.origin_notification_behavior" args="boolean:false"/>
+	<app_feature name="com.android.systemui.default_nav_state" args="String:sidegesture"/>
+	<app_feature name="com.android.phone.simsettings.domestic_demand_region" args="String:CN"/>
+	<app_feature name="com.android.phone.region_cn"/>
+	<app_feature name="com.android.phone.all.client"/>
+	<app_feature name="com.android.phone.simsettings.all.client"/>
+	<app_feature name="com.oplus.wirelesssettings.customize_cast_support"/>
+	<app_feature name="com.android.phone.simsettings.wallet_uri" args="String:wallet://fintech/main/web?from=21_001&amp;amp;event=chongzhi&amp;amp;url=https%3A%2F%2Frecharge.apps.oppomobile.com%2Frecharge-center%2Frecharge%2F%3Ftarget%3D_blank%26from%3D21_001%26event%3Ddoublecard%26mnhm%3Dgoback%26isTranslucentBar%3Dfalse%26k_n_o_a%3D1%26returnToWalletIndex%3Dtrue"/>
+	<app_feature name="com.android.phone.simsettings.wallet_H5_uri" args="String:https://rplatform.finzjr.com/recharge-center/recharge/?from=setting&amp;isTranslucentBar=true&amp;barFadeIn=true"/>
+	<app_feature name="com.android.incallui.region_cn"/>
+	<app_feature name="com.android.server.telecom.region_cn"/>
+	<app_feature name="com.android.phone.need_aggregation_network_lists_dynamic"/>
+	<app_feature name="com.oplus.wirelesssettings.connect_help_address" args="String:https://ocs-cn-south1.heytapcs.com/bluetooth-boot-heytapmobi-com/index.html#/"/>
+	<app_feature name="com.oplus.simsettings.region_cn"/>
+	<app_feature name="com.oplus.wirelesssettings.region_cn"/>
+	<app_feature name="com.oplus.wirelesssettings.wifi_smart_connect"/>
+	<app_feature name="com.oplus.floatassistant.air_view_enable"/>
+	<app_feature name="com.oplus.multiapp.change_tips" args="boolean:false"/>
+	<app_feature name="com.oplus.securitypermission.recommend_enable" args="boolean:true"/>
+	<app_feature name="com.oplus.securitypermission.recommend_url" args="String:https://app-sec-cn.heytapmobi.com/permission/queryservice/recommended/permission"/>
+	<app_feature name="com.oplus.securitypermission.recommend_domain_name" args="String:https://app-sec-cn.heytapmobi.com"/>
+	<app_feature name="com.oplus.securitypermission.recommend_business_id" args="String:recommended-permission"/>
+	<app_feature name="com.oplus.securitypermission.shortcut_enable" args="boolean:true"/>
+	<app_feature name="com.oplus.securitypermission.enable_personal_info_protection" args="boolean:true"/>
+	<app_feature name="com.oplus.exserviceui.miniprogram_event_tracking" args="boolean:true"/>
+	<app_feature name="com.oplusos.deepthinker.apptype.host" args="String:classify-app-cn.allawntech.com"/>
+	<app_feature name="com.oplus.tzupdate.timezone_url" args="String:weather-api-cn.allawntech.com"/>
+	<app_feature name="com.oplus.deepthinker.domain_name_release" args="String:classify-app-cn.allawntech.com"/>
+	<app_feature name="com.oplus.deepthinker.domain_name_dev" args="String:webdist-dev.wanyol.com"/>
+	<app_feature name="com.oplus.eap.anr_crash.statistics.switch" args="boolean:true"/>
+	<app_feature name="com.oplus.eap.anr_crash.logfile.switch" args="boolean:true"/>
+	<app_feature name="com.oplus.eap.cloud_storage_release_host_v3" args="String:https://ostorage-ocloud-cn.allawntech.com"/>
+	<app_feature name="com.oplus.eap.release_host" args="String:https://moa-upload-cn.allawntech.com"/>
+	<app_feature name="com.oplus.eap.pre_host" args="String:https://moa-uploadpre-cn.allawntech.com"/>
+	<app_feature name="com.oplus.cosa.server_url_test_spec" args="String:https://service-cosa.wanyol.com"/>
+	<app_feature name="com.oplus.cosa.server_url_spec" args="String:https://icosa-service-cn.allawntech.com"/>
+	<app_feature name="dft.logkit.ostorage_url" args="String:https://ostorage-ocloud-cn.allawntech.com"/>
+	<app_feature name="dft.logkit.feedback_server_url" args="String:https://ilogkit-service-cn.allawntech.com"/>
+	<app_feature name="com.oplus.wallpapers.online_wallpaper.host" args="String:https://wallpaper-service-cn.allawntech.com"/>
+	<app_feature name="com.oplus.aod.scene_info_enable" args="boolean:true"/>
+	<app_feature name="com.oplus.camera.soloop_route_url" args="String:https://videoeditor-cn01a.soloop.heytapmobi.com"/>
+	<app_feature name="com.oplus.camera.sticker_base_url" args="String:https://sticker-apps-cn.heytapmobi.com"/>
+	<app_feature name="com.oplus.camera.sticker_test_url" args="String:https://stickerserver.store-test.wanyol.com"/>
+	<app_feature name="com.oplus.camera.skin_detect_test_url" args="String:https://test-skindetect-api.wanyol.com"/>
+	<app_feature name="com.oplus.camera.skin_detect_base_url" args="String:https://skindetect-api-cn.realme.com"/>
+	<app_feature name="com.oplus.camera.skin_detect_3rd_party_url" args="String:https://www.meiyilab.com"/>
+	<app_feature name="com.oplus.camera.skin_detect_3rd_party_privacy_url" args="String:https://openapi.meiyilab.com/privacy/"/>
+	<app_feature name="com.oplus.calculator.rate_address" args="String:https://calculator-api-cn.allawntech.com/"/>
+	<app_feature name="com.android.contacts.phone_show_number_mark"/>
+	<app_feature name="com.android.contacts.support_card_recognize"/>
+	<app_feature name="com.oplus.alarmclock.inner_sales_version"/>
+	<app_feature name="com.oplus.smartanalysis.rule_server_host" args="String:https://iwisdom.apps.coloros.com"/>
+	<app_feature name="com.oplus.note.cloud_url_host" args="String:https://i-cn01a.ocloud.heytapmobi.com"/>
+	<app_feature name="com.oplus.note.speech_url_domain" args="String:atot-si-cn.allawntech.com"/>
+	<app_feature name="com.oplus.weather.service.weather_host" args="String:https://weather-server-gl.allawntech.com"/>
+	<app_feature name="com.oplus.weather2.inner_sales_version"/>
+	<app_feature name="com.oplus.weather.service.inner_sales_version"/>
+	<app_feature name="com.oplus.trafficmonitor.wallet_H5_uri" args="String:https://rplatform.finzfin.com/recharge-center/transfer/?from=setting&amp;tab=1"/>
+	<app_feature name="com.oplus.trafficmonitor.wallet_uri" args="String:wallet://fintech/main/web?openScenes=recharge&amp;url=https%3A%2F%2Frplatform.finzfin.com%2Frecharge-center%2Frecharge%2F%3Fjump_wallet%3Dtrue%26tab%3D1%26isTranslucentBar%3Dtrue%26barFadeIn%3Dtrue%26from%3D21_001"/>
+	<app_feature name="com.oplus.wirelesssettings.vcomm_more" args="String:https://opdwz.cn/QRb2umy"/>
+	<app_feature name="com.oplus.heysynergy.agreement_url_12.0" args="String:https://connect.oppo.com/zh-CN/agreement"/>
+	<app_feature name="com.oplus.padconnect.QR_url" args="String:https://pc-assistant-cn.allawnfs.com/h5/index.html?param="/>
+	<app_feature name="com.ted.number.crypto_domain" args="String:tel-num-cn.heytapmobi.com"/>
+	<app_feature name="com.oplus.securitypermission.intercept_lockscreen_showsettingui" args="boolean:true"/>
+	<app_feature name="com.oplus.daydreamvideo.region_cn"/>
+	<app_feature name="com.oplus.daydreamvideo.regionmark" args="String:CN"/>
+	<app_feature name="com.oplus.daydreamvideo.cloud_config" args="String:0"/>
+	<app_feature name="com.oplus.daydreamvideo.exit_sale_mode" args="String:https://storemode-cn.coloros.com"/>
+	<app_feature name="com.oplus.daydreamvideo.demo_phone_dau" args="String:https://store-mode-demo.heytapmobi.com"/>
+	<app_feature name="com.oplus.daydreamvideo.rus" args="String:https://rus-service-cn.allawntech.com"/>
+	<app_feature name="com.oplus.daydreamvideo.demo_phone_reg" args="String:https://esa-reg.myoppo.com"/>
+	<app_feature name="com.oplus.daydreamvideo.sau" args="String:https://sau-server-cn.allawntech.com"/>
+	<app_feature name="com.android.mms.phone_show_number_mark"/>
+	<app_feature name="com.oplus.ocrscanner.inner_sales_version"/>
+	<app_feature name="com.oplus.ocrservice.inner_sales_version"/>
+	<app_feature name="com.redteamobile.roaming.regionmark" args="String:CN"/>
+	<app_feature name="com.oplus.regservice.all_client"/>
+	<app_feature name="com.oplus.regservice.dm_privacy_disable_upload"/>
+	<app_feature name="com.oplus.heysynergy.func_brief_url_12.0" args="String:connect.oppo.com"/>
+	<app_feature name="com.oplus.childrenspace.check_app_base_url" args="String:https://minorspace-api-cn.allawntech.com/minor-space/v1/check-pkg"/>
+	<app_feature name="com.oplus.dcs.storage.url" args="String:https://ostorage-ocloud-cn.allawntech.com"/>
+	<app_feature name="com.oplus.dcs.eap.url" args="String:https://eap-log-cn.allawntech.com"/>
+	<app_feature name="com.oplus.smartsidebar.scene_rules_url" args="String:https://sidebar-apps-cn.allawntech.com"/>
+	<app_feature name="com.oplus.smartsidebar.survey_url" args="String:https://traffic-operation-cn.allawntech.com"/>
+	<app_feature name="com.oplus.compass.altitude_address" args="String:https://weather-server-gl.allawntech.com"/>
+	<app_feature name="com.oplus.securitypermission.recommend_base_url" args="String:https://app-sec-cn.heytapmobi.com/permission/queryservice/recommended/"/>
+	<app_feature name="com.oplus.satellite.package_activation_link" args="String:https://rplatform.finzfin.com/recharge-center/chinatelecom/satellitephone/?utm_id=findp_20240119143651_6176&amp;from=setting&amp;target=_blank"/>
+	<app_feature name="com.oplus.battery.one_key_power_save" args="boolean:false"/>
+	<app_feature name="com.oplus.battery.enable_hidden_api_collect" args="boolean:true"/>
+	<app_feature name="com.oplus.battery.support_abnormal" args="boolean:true"/>
+	<app_feature name="com.oplus.cosa.pdt_server_url" args="String:icosa-service-cn-01.allawntech.com"/>
+	<app_feature name="com.oplus.camera.camera_log_unlock_login_url" args="String:https://login-decrypt-cn.allawntech.com/secrecy/login_authorization_oaep"/>
+	<app_feature name="com.oplusos.deepthinker.apptype.cert_version" args="long:1717395920996"/>
+	<app_feature name="com.oplusos.deepthinker.apptype.public_key" args="String:MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAELU/RTbt3SQ2zt74elDfIvV3TT0Q+8MWZd7oZH/gFlvgnFM/57ki6iUPz/NrznrpozmXAx4h08S+cvzlBIQ8gmg=="/>
+	<app_feature name="com.oplus.cosa.rm_server_url" args="String:icosa-service-cn-03.allawntech.com"/>
+	<app_feature name="com.oplus.cosa.lmt_server_url" args="String:icosa-service-cn-02.allawntech.com"/>
+	<app_feature name="oplus.software.radio.andesbrain_cloud_sync_url_test" args="String:https://andesbrain-ai-cn.wanyol.com/andesbrain/model/fetch"/>
+	<app_feature name="oplus.software.radio.andesbrain_cloud_sync_url" args="String:https://andesbrain-ai-cn.heytapmobi.com/andesbrain/model/fetch"/>
+	<app_feature name="oplus.software.radio.concert_cloud_data_support" args="String:1"/>
+</extend_features>
+<!-- Timestamp 2024-08-19T19:42:02 #195894 -->

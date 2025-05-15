@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <version>20240819</version>
+
+    <!-- add for app reduce brightness feature -->
+    <method id="0">
+        <switch>1</switch>
+        <nit mode='0'>70,130,200,380,500</nit>
+        <ratio mode='0'>0.0,0.05,0.05,0.05,0.0</ratio>
+        <rate_in mode='0'>0,5,5,5,0</rate_in>
+        <rate_out mode='0'>0,7,7,7,0</rate_out>
+        <nit mode='1'>70,130,200,380,500</nit>
+        <ratio mode='1'>0.0,0.1,0.1,0.1,0.0</ratio>
+        <rate_in mode='1'>0,7,7,7,0</rate_in>
+        <rate_out mode='1'>0,10,10,10,0</rate_out>
+    </method>
+
+    <method id="2">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,800,1000,2000</nit>
+        <ratio mode='0'>0.0,0.1,0.15,0.0,0.25,0.0,0.5</ratio>
+        <rate_in mode='0'>0,10,10,0,10,0,10</rate_in>
+        <rate_out mode='0'>0,15,15,0,15,0,15</rate_out>
+        <nit mode='1'>70,130,380,500,1000,2000</nit>
+        <ratio mode='1'>0.0,0.1,0.15,0.0,0.0,0.5</ratio>
+        <rate_in mode='1'>0,10,10,0,0,10</rate_in>
+        <rate_out mode='1'>0,15,15,0,0,15</rate_out>
+    </method>
+
+    <method id="3">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,800,1000,2000</nit>
+        <ratio mode='0'>0.0,0.1,0.15,0.0,0.375,0.0,0.5</ratio>
+        <rate_in mode='0'>0,10,10,0,10,0,10</rate_in>
+        <rate_out mode='0'>0,15,15,0,15,0,15</rate_out>
+        <nit mode='1'>70,130,380,500,1000,2000</nit>
+        <ratio mode='1'>0.0,0.1,0.15,0.0,0.0,0.5</ratio>
+        <rate_in mode='1'>0,10,10,0,0,10</rate_in>
+        <rate_out mode='1'>0,15,15,0,0,15</rate_out>
+    </method>
+
+    <method id="4">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,600,800,2000</nit>
+        <ratio mode='0'>0.0,0.1,0.15,0.0,0.0,0.25,0.6</ratio>
+        <rate_in mode='0'>0,10,10,0,0,10,10</rate_in>
+        <rate_out mode='0'>0,15,15,0,0,15,15</rate_out>
+        <nit mode='1'>70,130,380,500,800,2000</nit>
+        <ratio mode='1'>0.0,0.1,0.15,0.0,0.0,0.6</ratio>
+        <rate_in mode='1'>0,10,10,0,0,10</rate_in>
+        <rate_out mode='1'>0,15,15,0,0,15</rate_out>
+    </method>
+
+    <method id="5">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,800,2000</nit>
+        <ratio mode='0'>0.0,0.15,0.15,0.0,0.375,0.6</ratio>
+        <rate_in mode='0'>0,10,10,0,10,10</rate_in>
+        <rate_out mode='0'>0,15,15,0,15,15</rate_out>
+        <nit mode='1'>70,130,380,500,800,2000</nit>
+        <ratio mode='1'>0.0,0.15,0.15,0.0,0.0,0.6</ratio>
+        <rate_in mode='1'>0,15,15,0,0,15</rate_in>
+        <rate_out mode='1'>0,20,20,0,0,20</rate_out>
+    </method>
+
+    <method id="6">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,800,2000</nit>
+        <ratio mode='0'>0.0,0.15,0.15,0.0,0.375,0.6</ratio>
+        <rate_in mode='0'>0,10,10,0,10,18</rate_in>
+        <rate_out mode='0'>0,15,15,0,15,20</rate_out>
+        <nit mode='1'>70,130,380,500,800,2000</nit>
+        <ratio mode='1'>0.0,0.15,0.15,0.0,0.0,0.6</ratio>
+        <rate_in mode='1'>0,10,10,0,0,18</rate_in>
+        <rate_out mode='1'>0,15,15,0,0,20</rate_out>
+    </method>
+
+    <method id="7">
+        <switch>1</switch>
+        <nit mode='0'>70,130,380,500,800,2000</nit>
+        <ratio mode='0'>0.0,0.15,0.15,0.0,0.375,0.6</ratio>
+        <rate_in mode='0'>0,10,10,0,10,18</rate_in>
+        <rate_out mode='0'>0,15,15,0,15,20</rate_out>
+        <nit mode='1'>70,130,380,500,800,2000</nit>
+        <ratio mode='1'>0.0,0.15,0.15,0.0,0.0,0.6</ratio>
+        <rate_in mode='1'>0,10,10,0,0,10</rate_in>
+        <rate_out mode='1'>0,15,15,0,0,15</rate_out>
+    </method>
+
+    <backlightStat>
+        <support>1</support>
+        <useNit>1</useNit>
+        <luxs>0,2,4,6,8,10,15,20,25,30,40,60,95,100,200,300,400,500,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,4000,7000,10000,15000,20000,30000,40000,65000,90000,115000,140000,150000,160000</luxs>
+        <appLevels>2.5,7.5,13,18,25,30,38,45,50,55,60,70,79,82,90,98,106,113,152,160,168,177,185,194,203,212,222,232,243,391,500,545,600,650,820,1000,1400,1800,2000,2400,2800,3100</appLevels>
+        <!-- 300,400,500,600,700,800 nit -->
+        <durLevels>300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,3100</durLevels>
+        <maxLux>160000</maxLux>
+    </backlightStat>
+
+    <LowBrightnessThreshold>200</LowBrightnessThreshold>
+
+    <MarvelsAIBrightnessSupport>1</MarvelsAIBrightnessSupport>
+
+    <!-- add for dolby temperature limit brightness: 0~21 gears -->
+    <dolby_temperature_limit_nit>
+        <nits>9999</nits>
+        <nits>1000</nits>
+        <nits>800</nits>
+        <nits>500</nits>
+        <nits>450</nits>
+        <nits>400</nits>
+        <nits>350</nits>
+        <nits>300</nits>
+        <nits>250</nits>
+        <nits>200</nits>
+        <nits>150</nits>
+        <nits>100</nits>
+        <nits>1000</nits>
+        <nits>1000</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+        <nits>9999</nits>
+    </dolby_temperature_limit_nit>
+
+    <!-- add for global brightness limit -->
+    <global_brightness_limit nit="3100">
+        <app>com.oplus.engineermode</app>
+        <app>com.oplus.autotest.mmdisplaytool</app>
+        <app>com.coloros.gallery3d</app>
+    </global_brightness_limit>
+
+    <!-- add for hdr vision enhance -->
+    <hdr_vision>
+        <origin_nit>0,60,60,200,200,818,818,3100</origin_nit>
+        <enhance_nit>0,180,360,1200,1200,1200,1600,3100</enhance_nit>
+    </hdr_vision>
+
+    <!-- add for aurora wallpaper enhance -->
+    <aurora_wallpaper>
+        <origin_nit>0,60,60,300,300,600,600,3100</origin_nit>
+        <enhance_nit>0,60,120,600,600,600,600,3100</enhance_nit>
+    </aurora_wallpaper>
+
+    <!-- add for game edr enhance -->
+    <game_edr>
+        <origin_nit factor='25'>0,60,60,150,150,240,240,600,600,3100</origin_nit>
+        <enhance_nit factor='25'>0,120,138,345,375,600,600,600,600,3100</enhance_nit>
+        <origin_nit factor='27'>0,60,60,150,150,223,223,600,600,3100</origin_nit>
+        <enhance_nit factor='27'>0,120,150,375,405,600,600,600,600,3100</enhance_nit>
+    </game_edr>
+</root>

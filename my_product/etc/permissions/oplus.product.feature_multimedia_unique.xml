@@ -1,0 +1,48 @@
+<oplus-config>
+    <!-- Liurongbo@MULTIMEDIA.DISPLAY.SF 2023/01/18  Add for sharpness-->
+    <oplus-feature name="oplus.software.display.sharpness_switch"/>
+
+    <!-- Zehua.Zhang@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.2023/05/15. Add for media control -->
+    <oplus-feature name="oplus.software.audio.media_control"/>
+    <!-- YeWenliang@MULTIMEDIA.AUDIODRIVER, 2021/08/26, Add for lvacfs surround record -->
+    <oplus-feature name="oplus.software.video.surround_record_support"/>
+    <!-- Rui.Zhang@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.2021/7/29. Add for hearing health feature -->
+    <oplus-feature name="oplus.software.audio.hearing_health_support"/>
+    <!-- Rui.Zhang@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.2021/7/29. Add for spl limit -->
+    <oplus-feature name="oplus.software.audio.spl_limit_support"/>
+    <!-- Lvhongzhou@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.2023/8/17. Add for speaker channel reserve -->
+    <oplus-feature name="oplus.software.audio.dualspk_support"/>
+    <!-- zhanglixia@MULTIMEDIA.AUDIOSERVER.FRAMEWORK.2023/05/19. Add for spk oplus spatializer -->
+    <oplus-feature name="oplus.software.spatializer_speaker"/>
+    <!-- zhanglixia, 2023/05/30, Add for bluetooth volume sync -->
+    <oplus-feature name="oplus.software.bluetooth_volume_sync"/>
+    <!-- LiJingQiang@MULTIMEDIA.DISPLAY.SERVICE, 2023/03/09, Add for display feature start -->
+    <!-- sceen mode feature -->
+    <oplus-feature name="oplus.software.display.dynamic_fps_switch" />
+    <!-- performance feature -->
+    <oplus-feature name="oplus.software.display.refreshrate_default_smart"/>
+    <oplus-feature name="oplus.software.display.multi_device_decrease_refresh_rate"/>
+    <oplus-feature name="oplus.software.display.adfr"/>
+    <!-- yinsonghua@MULTIMEDIA.VOICE WAKEUP 2023/06/06  Add for voice wakeup support-->
+    <oplus-feature name="oplus.software.audio.voice_wakeup_support"/>
+    <!--Guanbiao.Liu @MULTIMEDIA.MEDIASERVER.RECORDER, 2023/06/20, Add for osie and sr feature start -->
+    <oplus-feature name="oplus.software.video.sr_support"/>
+    <oplus-feature name="oplus.software.video.osie_support"/>
+    <!--Guanbiao.Liu @MULTIMEDIA.MEDIASERVER.RECORDER, 2023/06/20, Add for osie and sr feature end -->
+    <!-- zhanghua2@MULTIMEDIA, 2021/12/15, Add for OHA -->
+    <oplus-feature name="oplus.software.display.oha_support"/>
+    <!-- LiXiangSheng@MULTIMEDIA, 2024/3/22, Add for GCP feature start -->
+    <oplus-feature name="oplus.software.display.game_color_plus_v2_support" />
+    <!-- LiXiangSheng@MULTIMEDIA, 2024/3/22, Add for GCP feature end -->
+    <!-- LiXiangSheng@MULTIMEDIA, 2024/6/11, Add for exclude eyeprotect rhythmhealth feature start -->
+    <oplus-feature name="oplus.software.display.colormode_exclude_rhythmhealth" />
+    <!-- LiXiangSheng@MULTIMEDIA, 2024/6/11, Add for exclude eyeprotect rhythmhealth feature end -->
+    <!-- Longfei.Zhou@MULTIMEDIA, 2024/08/01, Add for smear optimization feature start -->
+    <oplus-feature name="oplus.software.display.change_default_color_temperature" />
+    <!-- Longfei.Zhou@MULTIMEDIA, 2024/08/01, Add for smear optimization feature end -->
+
+    <!-- WeiYang@MULTIMEDIA.AUDIOSERVER.BASE, 2024/04/02, add for multi-application volume adjustment -->
+    <oplus-feature name="oplus.software.multi_app.volume.adjust.support"/>
+    <!-- WangBo@MULTIMEDIA.AUDIOSERVER.BASE, 2024/05/17, Add for voice assistant independent volume -->
+    <oplus-feature name="oplus.software.audio.assistant_volume_support"/>
+</oplus-config>

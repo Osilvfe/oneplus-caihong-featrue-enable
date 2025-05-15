@@ -1,0 +1,5 @@
+<oplus-config>
+    <oplus-feature name="oplus.software.display.game.dapr_enable"/>
+    <oplus-feature name="oplus.software.display.game.ofrc_enable"/>
+    <oplus-feature name="oplus.software.game.playmode_enable"/>
+</oplus-config>

@@ -1,0 +1,43 @@
+<oplus-config>
+
+    <!-- Haifeng.Zhu@ANDROID.BIOMETIRC, 2021/05/13, add for feature face close eye verify -->
+    <oplus-feature name="oplus.software.face_closeeye_detect"/>
+
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add for some process keep alive -->
+    <oplus-feature name="oplus.software.keep_alive" />
+    <!-- LuoBinqiang@ANDROID.AMS, 2020/07/14, add end -->
+
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add for wake up arouse -->
+    <oplus-feature name="oplus.software.wake_up_arouse_support" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2020/11/25, add end -->
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add for blackgesture -->
+    <oplus-feature name="oplus.software.gesture_proximitysensor" />
+    <!-- CaiChunchun@ANDROID.INPUT, 2021/07/07, add end -->
+
+    <!-- steve.shen@OPTI, 2021/03/12, Add for animation scroll opt -->
+    <oplus-feature name="oplus.software.scroll.animation_opt" />
+
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/24, add for typecotg -->
+    <oplus-feature name="oplus.typecotg.connection.menu.support" />
+    <!-- Xianhua.Li@ANDROID.CHG, 2022/08/24, add end -->
+
+    <!-- Jian.Hou@ANDROID.WMS, 2024/02/27, Add for tablet-->
+    <oplus-feature name="oplus.hardware.type.tablet" />
+    <!-- Jian.Hou@ANDROID.WMS, 2024/02/27, Add end-->
+
+    <!-- Jian.Hou@ANDROID.WMS, 2024/02/27, Add for compact window -->
+    <oplus-feature name="oplus.software.windowmode.compact" />
+    <!-- Jian.Hou@ANDROID.WMS, 2024/02/27, Add end-->
+
+    <!-- sean.liu@ANDROID.DisplayFramework, 2022/06/13, add for oplus embedding -->
+    <oplus-feature name="oplus.software.display.google_extension_embedding" />
+
+    <!-- sean.liu@ANDROID.DisplayFramework, 2022/06/13, add for oplus embedding -->
+    <oplus-feature name="oplus.software.display.google_extension_layout" />
+
+    <!-- sean.liu@ANDROID.DisplayFramework, 2022/05/09, add for oplus embedding -->
+    <oplus-feature name="oplus.software.display.oplus_activity_embedding" />
+
+    <!-- wanchang, 2023/10/14, Add for keep alive autotest -->
+    <oplus-feature name="oplus.software.perceptible_app_keep_alive" />
+</oplus-config>

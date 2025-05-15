@@ -1,0 +1,31 @@
+<oplus-config>
+    <!-- =================== DISPLAY FEATURES BEGIN ================================ -->
+    <!-- brightness feature -->
+    <oplus-feature name="oplus.software.display.screen_gloablehbm_support"/>
+    <oplus-feature name="oplus.software.display.autobrightctl_animation_support"/>
+    <oplus-feature name="oplus.software.display.multibits_dimming_support"/>
+    <oplus-feature name="oplus.software.display.brightness_mode_automatic"/>
+    <!-- colormode feature -->
+    <oplus-feature name="oplus.software.display.intelligent_color_temperature_support" />
+    <oplus-feature name="oplus.software.display.colormode_support"/>
+    <oplus-feature name="oplus.software.display.rgb_ball_support" />
+    <oplus-feature name="oplus.software.display.colorful_mode_support" />
+    <!--software roundcorner feature -->
+    <oplus-feature name="oplus.software.display.screen_select" />
+    <!-- sceen fingerprint feature -->
+    <oplus-feature name="oplus.software.fingeprint_optical_enabled"/>
+    <!-- Add for Eyeprotect -->
+    <oplus-feature name="oplus.software.display.smart_color_temperature_rhythm_health_support" />
+    <!-- Add for display calbrication 100APL   -->
+    <oplus-feature name="oplus.software.display.screen_calibrate_100apl"/>
+    <oplus-feature name="oplus.software.display.local_hbm_support"/>
+    <oplus-feature name="oplus.software.display.dolby_enhance_v1_rm_support"/>
+    <!-- Add for peak brightness test -->
+    <oplus-feature name="oplus.software.display.peak_brightness_test_support"/>
+    <!-- Add for LHDR only support dimming brightening by animation mode -->
+    <oplus-feature name="oplus.software.display.lhdr_only_dimming_support"/>
+    <!-- Add for Eye Protection UI Upgrade -->
+    <oplus-feature name="oplus.software.display.eyeprotect_with_upgrade_ui"/>
+    <!-- Add for leather case -->
+    <oplus-feature name="oplus.software.device_case" />
+</oplus-config>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="appfeature.devicepolicy.compat_shift_call_getcalleridentity" args="StringList:shift_caller_package">
+        <StringList name="shift_caller_package" args="com.sdu.didi.gsui|getCameraDisabled"/>
+    </app_feature>
+</extend_features>

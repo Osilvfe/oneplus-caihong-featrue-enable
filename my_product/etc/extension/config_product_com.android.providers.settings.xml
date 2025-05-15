@@ -1,0 +1,4 @@
+<settings_provider_config>
+    <!-- Add to Aries project, add physical keyboard UI default configuration -->
+    <settings_item name="settings_new_keyboard_ui" value="false" category="global"/>
+</settings_provider_config>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-conf>
+    <version>2024092301</version>
+    <filter-name>sys_custom_memory_nirvana_config</filter-name>
+
+    <config name="baseConfig" type="bundle">
+        <item name="NirvanaSupportMinRam" type="int" value="16"/>
+    </config>
+</filter-conf>

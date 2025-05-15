@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <!-- indicate if the device is support long charge protection -->
+    <app_feature name="os.charge.settings.longchargeprotection.ai"/>
+</extend_features>

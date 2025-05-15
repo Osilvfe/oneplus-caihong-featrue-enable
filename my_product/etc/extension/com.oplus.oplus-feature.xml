@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+	<oplus-feature name="oplus.software.display.oplus_activity_embedding" />
+	<oplus-feature name="oplus.software.flexible.subdisplay.support" />
+	<oplus-feature name="oplus.software.display.eyeprotect_game_support" />
+	<oplus-feature name="oplus.software.audio.super_volume_3x"/>
+    <oplus-feature name="oplus.hardware.audio.voice_denoise_support"/>
+    <oplus-feature name="oplus.software.audio.privacy_call_software_mode_support"/>
+	<oplus-feature name="oplus.software.support.zoom.open_wechat_mini_program" />
+	<oplus-feature name="oplus.software.support.zoom.multi_mode" />
+	<oplus-feature name="oplus.software.flexible_freeform.support" />
+	<oplus-feature name="oplus.software.display.eyeprotect_single_pulse_rm_support" />
+	<oplus-feature name="oplus.software.display.oplus_activity_embedding" />
+	<oplus-feature name="oplus.software.flexible.subdisplay.support" />
+	<oplus-feature name="oplus.software.display.eyeprotect_paper_texture_support"/>
+	
+	<oplus-feature name="oplus.software.view.autolayout"/>
+	<oplus-feature name="oplus.software.radio.virtualmodem_support"/>
+	<oplus-feature name="oplus.software.radio.disabled_cached_uid"/>
+	<oplus-feature name="oplus.software.radio.data_eval3"/>
+	<oplus-feature name="oplus.software.radio.support_5g"/>
+	<oplus-feature name="oplus.software.padconnect.support"/>
+	<oplus-feature name="oplus.software.radio.support_dual_nr"/>
+	<oplus-feature name="oplus.software.radio.virtualmodem_cellinfo"/>
+	<oplus-feature name="oplus.software.screenshot.touch_stylus_module"/>
+	<oplus-feature name="oplus.software.view.spring_over_scroller"/>
+	<oplus-feature name="oplus.software.touchpad_two_finger"/>
+	<oplus-feature name="oplus.software.escrowtoken.support"/>
+	<oplus-feature name="oplus.software.audio.voice_wakeup_support"/>
+	<oplus-feature name="oplus.software.audio.voice_wakeup_xbxb_support"/>
+	<oplus-feature name="oplus.software.speechassist.oneshot.support"/>
+	<oplus-feature name="oplus.software.app_resolution_auto"/>
+	<oplus-feature name="oplus.software.app_resolution_switch"/>
+	<oplus-feature name="oplus.software.radio.nwpower_app_network_monitor_switch_enable"/>
+	<oplus-feature name="oplus.software.radio.nwpower_screenoff_app_net_control_switch_enable"/>
+	<oplus-feature name="oplus.software.radio.nwpower_bg_app_net_control_switch_enable"/>
+	<oplus-feature name="oplus.software.pocketstudio.support"/>
+	<oplus-feature name="oplus.software.radio.ul_priority_policy_stream"/>
+	<oplus-feature name="oplus.software.radio.smart_commu"/>
+	<oplus-feature name="oplus.software.radio.data_eval4"/>
+	<oplus-feature name="oplus.software.radio.nwpower_sys_net_control_switch_enable"/>
+	<oplus-feature name="oplus.software.radio.comm_scene_switch_enable"/>
+	<oplus-feature name="oplus.software.aon_ant_peep_disable"/>
+	<oplus-feature name="oplus.hardware.aon_enable"/>
+	<oplus-feature name="oplus.software.compat.land_game_mode"/>
+</oplus-config>
+<!-- Timestamp 2024-11-12T18:26:33 #05da695f-a868-4f04-bfe8-7c1355758b27 -->

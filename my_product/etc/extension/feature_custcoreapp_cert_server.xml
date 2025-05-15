@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extend_features>
+    <app_feature name="grom_product_url" args="String:https://tobcustomize.coloros.com"/>
+    <app_feature name="grom_test_url" args="String:https://tob-customize-romtest.wanyol.com"/>
+    <app_feature name="customize_pre_product_url" args="String:https://tobcustomize-pre.coloros.com"/>
+</extend_features>

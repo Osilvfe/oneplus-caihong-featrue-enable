@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oplus-config>
+    <oplus-feature name="oplus.software.display.game.hdr3.0_enable"/>
+    <oplus-feature name="oplus.software.display.game.dapr_enable"/>
+    <oplus-feature name="oplus.software.game.playmode_enable"/>
+    <oplus-feature name="oplus.software.display.game.ofrc_enable"/>
+    <oplus-feature name="oplus.software.display.game.osr_enable"/>
+    <oplus-feature name="oplus.software.game.hummingbird"/>
+    <oplus-feature name="oplus.software.display.game.hdr2.0_enable"/>
+    <oplus-feature name="oplus.software.display.game_color_space_support"/>
+    <oplus-feature name="oplus.software.display.game_color_plus_v2_support"/>
+    <oplus-feature name="oplus.software.display.game_color_plus_iris_sdr2hdr_support"/>
+    <oplus-feature name="oplus.software.coolex.support" />
+    <oplus-feature name="oplus.software.game.cold.start.speedup.enable" />
+    <oplus-feature name="oplus.software.game_engine_vibrator_v1.support"/>
+    <oplus-feature name="oplus.software.haptic_vibrator_v2.support"/>
+    <oplus-feature name="oplus.software.display.game.mfrc_enable"/>
+    <oplus-feature name="oplus.software.display.game.support.extreme_insert"/>
+    <oplus-feature name="oplus.software.display.game.ofrc_enable"/>
+    <oplus-feature name="oplus.software.display.game.sr.fully_enable"/>
+    <oplus-feature name="oplus.software.radio.vice_card_game_mode"/>
+    <oplus-feature name="oplus.software.display.frc_support"/>
+    <oplus-feature name="oplus.software.game.yuanshenvibration"/>
+    <oplus-feature name="oplus.software.display.ai_sr_support"/>
+    <oplus-feature name="oplus.software.display.game.osr_enable"/>
+    <oplus-feature name="oplus.software.wlan.game_network_strength_scan"/>
+    <oplus-feature name="oplus.software.haptic_vibrator_v1.support"/>
+    <oplus-feature name="oplus.software.vibrator_richctap"/>
+    <oplus-feature name="oplus.software.game.lol_support"/>
+    <oplus-feature name="oplus.software.radio.dual_ps"/>
+    <oplus-feature name="oplus.software.game.touch_adjuster_support"/>
+    <oplus-feature name="oplus.software.display.game.assistant_frame_3.0_enable"/>
+    <oplus-feature name="oplus.software.game.playmode_enable"/>
+    <oplus-feature name="oplus.software.display.game.sr_enable"/>
+    <oplus-feature name="oplus.software.general.cooling.back.clip.enable"/>
+    <oplus-feature name="oplus.software.display.game.dapr_enable"/>
+    <oplus-feature name="oplus.software.performance_setting_extension"/>
+    <oplus-feature name="oplus.software.audio.magicvoice_support"/>
+</oplus-config>

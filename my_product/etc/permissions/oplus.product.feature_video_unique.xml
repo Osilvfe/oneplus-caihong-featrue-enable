@@ -1,0 +1,10 @@
+<permissions>
+    <!-- Guanbiao.Liu@MULTIMEDIA.MEDIASERVER.PLAYER, 2023/06/20, Add for osie and sr feature start -->
+    <feature name="oplus.software.video.sr_support"/>
+    <feature name="oplus.software.video.osie_support"/>
+    <!-- Guanbiao.Liu@MULTIMEDIA.MEDIASERVER.PLAYER, 2023/06/20, Add for osie and sr feature end -->
+    <!-- Guanbiao.Liu@MULTIMEDIA.MEDIASERVER.PLAYER, 2023/06/20, Add for 3rd app Hdr10 feature start -->
+    <feature name="oplus.video.hdr10_support"/>
+    <feature name="oplus.video.hdr10plus_support"/>
+    <!-- Guanbiao.Liu@MULTIMEDIA.MEDIASERVER.PLAYER, 2023/06/20, Add for 3rd app Hdr10 feature end -->
+</permissions>
