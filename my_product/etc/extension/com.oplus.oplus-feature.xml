@@ -43,5 +43,8 @@
 	<oplus-feature name="oplus.software.aon_ant_peep_disable"/>
 	<oplus-feature name="oplus.hardware.aon_enable"/>
 	<oplus-feature name="oplus.software.compat.land_game_mode"/>
+
+	<!-- 以下是后添加的 -->
+	<oplus-feature name="oplus.software.display.reduce_white_point"/>	<!--降低白点值(官方极暗)-->
 </oplus-config>
 <!-- Timestamp 2024-11-12T18:26:33 #05da695f-a868-4f04-bfe8-7c1355758b27 -->
